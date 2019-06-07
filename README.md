@@ -1,2 +1,7 @@
 # Object_Detection_Using_Yolov3
-This object detection only for image not for video.You will give input image then it will give output object detected/classify the object.
+This object detection only for image not for video.
+#Requirement
+class file /yolov3.txt
+weights file /yolov3.weights
+configure file /yolov3.cfg
+
