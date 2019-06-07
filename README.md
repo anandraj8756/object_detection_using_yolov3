@@ -5,9 +5,11 @@ class file /yolov3.txt
 weights file /yolov3.weights
 configure file /yolov3.cfg
 
-weights file download the original site on darknet.
+weights file download the original site on darknet.Download the model weights and place them into your current working directory with the filename “yolov3.weights.” It is a large file and may take a moment to download depending on the speed of your internet connection.
 
-https://github.com/pjreddie/darknet
+https://pjreddie.com/media/files/yolov3.weights
+
+
 
 OutPut1:
 
