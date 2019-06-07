@@ -10,7 +10,7 @@ https://github.com/pjreddie/darknet
 
 OutPut1:
 
-<image src = "Output101.png">
+<image src = "OutPut101.png">
   
   
 
