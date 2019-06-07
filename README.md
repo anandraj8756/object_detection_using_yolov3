@@ -12,6 +12,19 @@ OutPut1:
 
 <image src = "OutPut101.png">
   
+OutPut2:
+
+<image src ="OutPut102.png">
+  
+  
+  
+OutPut3:
+
+
+<image src ="OutPut103.png">
+  
+  
+  
   
 
 
