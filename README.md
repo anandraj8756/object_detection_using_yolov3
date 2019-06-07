@@ -8,4 +8,10 @@ configure file /yolov3.cfg
 weights file download the original site on darknet.
 https://github.com/pjreddie/darknet
 
+OutPut1:
+
+<image src = "Output101.png">
+  
+  
+
 
